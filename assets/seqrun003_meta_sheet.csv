@@ -1,0 +1,3 @@
+Seq_RUN_NAME,Run_Instrument,SEQ_ID,Well_Location,Sample_Type,Client_Sample_ID,Expected_Reads,Sample_Project,Primer_Set,Output_Format,Analysis_Type,Seq_Labware_Barcode,Labware_Barcode,Client_Plate_ID,Client,Avenue,N1,N2,RP,Ref,Client_S3_Path,Plate_Status
+SQR000026,nextseq2k,SEQ00003B5X1,A01,RNA,2022_0830_91A01,500000,COVID,sarscov2_pset002,Summary,Covid Patient,X2_000001,AC2_000001,2022_0830_91,HHC,STAT,18.11409569,16.23906898,24.93365288,N/A,Report,
+SQR000026,nextseq2k,SEQ00003B5X4,A02,RNA,2022_0830_91A02,500000,COVID,sarscov2_pset002,Summary,Covid Patient,X2_000001,AC2_000001,2022_0830_91,HHC,STAT,15.53973961,13.91580582,24.3789196,N/A,Report,
